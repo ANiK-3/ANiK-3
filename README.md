@@ -1,9 +1,3 @@
-<!-- <h5 align="center">
-  <code>
-    <a href="https://www.facebook.com/mahfuz333" title="Facebook Profile"><img width="22" src="https://github.com/ANiK-3/images/blob/main/images/facebook.svg"> Facebook</a></code>
-</h5>
--->
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mahfuz+Chowdhury;Nice+to+meet+you!&center=true&size=30">
@@ -19,7 +13,7 @@
   I'm currently into Web Development 🕸️ 🤓.
 </div>
 <hr>
-<img align="right" height="250" width="375" alt="" src="https://github.com/ANiK-3/images/blob/main/images/coder.gif"/>
+<img align="right" height="210" width="355" alt="" src="https://github.com/ANiK-3/images/blob/main/images/coder.gif"/>
  
 ### Talking about Personal Stuffs:
 
@@ -28,6 +22,8 @@
 - 📫 &nbsp; How to reach me: Aniksn99@gmail.com.
 - ⚡ Fun fact: I love to draw and play guitar
 <br>
+<br>
+<hr/>
 
 ### Connect with me:
  <code>
