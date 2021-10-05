@@ -7,18 +7,18 @@
 <div align="justify">
   <p align="center"> Hi, I'm Mahfuz Chowdhury </p>
   <br>
-  I'm a undergraduate in Computer Science from Leading University in Bangladesh 🏛.
+  I'm an undergraduate in Computer Science from Leading University, Bangladesh 🏛.
   I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
   I love to explore new technologies and leverage them to solve real-life problems ✨. 
   I'm currently into Web Development 🕸️ 🤓.
 </div>
 <hr>
-<img align="right" height="210" width="355" alt="" src="https://github.com/ANiK-3/images/blob/main/images/coder.gif"/>
+<img align="right" height="210" width="355" alt="" src="https://github.com/ANiK-3/images/blob/main/images/coder.gif">
  
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Java.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ANiK-3).
+- 🚀 &nbsp; I’m currently learning **Java / JS**.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ANiK-3?tab=repositories).
 - 📫 &nbsp; How to reach me: Aniksn99@gmail.com.
 - ⚡ Fun fact: I love to draw and play guitar
 <br>
