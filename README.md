@@ -4,12 +4,10 @@
   </a>
 </h1>
 
-<div align="justify">
-  <p align="center"> Hi, I'm Mahfuz Chowdhury </p>
-  <br>
+<div>
+  Hi, I'm Mahfuz Chowdhury.
   I'm an undergraduate in Computer Science from Leading University, Bangladesh 🏛.
-  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-  I love to explore new technologies and leverage them to solve real-life problems ✨. 
+  I'm a passionate learner who's always willing to learn.
   I'm currently into Web Development 🕸️ 🤓.
 </div>
 <hr>
@@ -25,10 +23,12 @@
 <br>
 <hr/>
 
+<!--
 ### Connect with me:
  <code>
-  <a href="https://www.facebook.com/mahfuz333" title="Facebook Profile"><img width="22" src="https://github.com/ANiK-3/images/blob/main/images/facebook-2.svg"> Facebook</a></code>
+  <a href="https://www.facebook.com/" title="Facebook Profile"><img width="22" src="https://github.com/ANiK-3/images/blob/main/images/facebook-2.svg"> Facebook</a></code>
 <br>
+-->
 
 ### Languages and Tools:
 
@@ -47,29 +47,29 @@
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><strong>⚡ Github Stats</strong></summary>
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANiK-3&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANiK-3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANiK-3&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANiK-3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8">
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><strong>☄️ Github Streaks</strong></summary>
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ANiK-3&hide_border=true" />
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ANiK-3&hide_border=true">
 </details>
  
 <details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <br>
+  <summary><strong>⚙️ Things I use to get stuff done</strong></summary>
   	<ul>
-  	    <li><b>OS:</b> Arch Linux</li>
-	    <li><b>Laptop: </b> Lenovo Ideapad 310 80TU</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH</li>
-	    <li><b>Code Editor:</b> VSCode</li>
-	    <br />
+  	    <li><strong>OS:</strong> Arch Linux</li>
+	    <li><strong>Laptop: </strong> Lenovo Ideapad 310 80TU</li>
+  	    <li><strong>Browser: </strong> Firefox Web Browser</li>
+	    <li><strong>Terminal: </strong> ZSH</li>
+	    <li><strong>Code Editor:</strong> VSCode</li>
+	    <br>
 	</ul>	
 </details>   
