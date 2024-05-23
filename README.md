@@ -15,10 +15,10 @@
  
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning **Java / JS**.
+- 🚀 &nbsp; I’m currently learning **Laravel**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ANiK-3?tab=repositories).
 - 📫 &nbsp; How to reach me: Aniksn99@gmail.com.
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to play guitar.
 <br>
 <br>
 <hr/>
